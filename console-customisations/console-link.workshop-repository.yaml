@@ -6,6 +6,6 @@ spec:
   applicationMenu:
     imageURL: https://github.com/favicon.ico
     section: Red Hat Summit 2023
-  href: https://github.com/evanshortiss/rht-summit-2023-gitops-cluster-mgmt/
+  href: https://github.com/fmeulenk/rht-summit-2023-gitops-cluster-mgmt/
   location: ApplicationMenu
   text: Cluster GitOps Repository
